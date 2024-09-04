@@ -1,2 +1,2 @@
 # AMRDPC
-AMR 3D compression compression framework
+AMR 3D lossy compression framework
