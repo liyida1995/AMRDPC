@@ -32,6 +32,8 @@ export SZ_HOME=SZDir
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$SZ_HOME/lib
 ```
 
+Or modify the .bashrc file directly.
+
 ## Comparison Baseline
 1. The primitive 3D baseline: Different AMR levels are unified to the same resolution for 3D compression;
 2. The state-of-the-art 3D compressor TAC, which involves multiple density-based strategies to process AMR data.
