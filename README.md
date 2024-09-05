@@ -22,11 +22,11 @@ We evaluate the effectiveness of AMRDPC with seven real AMR application datasets
 
 ## Data Compression
 We utilize the lossy compressors SZ to evaluate how much AMRDPC can improve the compression ratio. In particular, we use SZ with the default mode and absolute error bound. SZ can be downloaded from the following address:
-(1)	SZ: https://github.com/szcompressor/SZ.
+1. SZ: https://github.com/szcompressor/SZ.
 
 ## Comparison Baseline
-(1) The primitive 3D baseline: Different AMR levels are unified to the same resolution for 3D compression;
-(2) The state-of-the-art 3D compressor TAC, which involves multiple density-based strategies to process AMR data.
+1. The primitive 3D baseline: Different AMR levels are unified to the same resolution for 3D compression;
+2. The state-of-the-art 3D compressor TAC, which involves multiple density-based strategies to process AMR data.
 
 ## Testing Examples
 Examples can be found in the AMRDPC/example.
