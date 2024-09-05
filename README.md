@@ -27,9 +27,10 @@ We utilize the lossy compressors SZ to evaluate how much AMRDPC can improve the 
 
 Download and install SZ into SZDir followed by the instructions provided by SZ's repo.
 
+```
 export SZ_HOME=SZDir
-
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$SZ_HOME/lib
+```
 
 ## Comparison Baseline
 1. The primitive 3D baseline: Different AMR levels are unified to the same resolution for 3D compression;
