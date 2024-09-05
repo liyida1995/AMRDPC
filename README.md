@@ -3,7 +3,7 @@
 ## Overview
 The main idea of AMRDPC is to preprocess AMR data based on density partitioning before compression, and further improve AMR applications' storage efficiency.
 
-## Instruction for AMRDPC:
+## Instruction for AMRDPC
 1. Get the AMR applications and lossy compressor SZ.
 2.
 
