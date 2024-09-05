@@ -12,13 +12,13 @@ We conduct our experiments on a Linux server with OS kernel of Linux 5.15, CPU o
 
 ## AMR Applications
 We evaluate the effectiveness of AMRDPC with seven real AMR application datasets in AMReX. These applications can be downloaded from the following addresses:
-1. https://drive.google.com/file/d/118ataZqVlCFq5D04MhtTTOBBvVO6DR6B/view?usp=sharing
-2. https://drive.google.com/file/d/1PHMUV6c9K5V9AN-TF_CYf9ROR86oZYSm/view?usp=sharing
-3. https://drive.google.com/file/d/1hEjnw3llHj2P9z3WyrWSQAWqPAQ-LKxy/view?usp=sharing
-4. https://drive.google.com/file/d/1xWwf2_YFDjod0mUIRl1iffj95ZemR4Q6/view?usp=sharing
-5. https://drive.google.com/file/d/1xZnts_QRAN5Av3NbBzLzt0FybVafV7JC/view?usp=sharing
-6. https://drive.google.com/file/d/1vy3Bry1RmAdXqMNXhwXFWZOzF6bCa7hM/view?usp=sharing
-7. https://drive.google.com/file/d/1CeI_nxhU5_rrT2e78Jsy025t5lOmaQAd/view?usp=sharing
+1. Grid Z2: https://drive.google.com/file/d/118ataZqVlCFq5D04MhtTTOBBvVO6DR6B/view?usp=sharing
+2. Grid Z3: https://drive.google.com/file/d/1PHMUV6c9K5V9AN-TF_CYf9ROR86oZYSm/view?usp=sharing
+3. Grid Z5: https://drive.google.com/file/d/1hEjnw3llHj2P9z3WyrWSQAWqPAQ-LKxy/view?usp=sharing
+4. Grid Z10: https://drive.google.com/file/d/1xWwf2_YFDjod0mUIRl1iffj95ZemR4Q6/view?usp=sharing
+5. Run2_T2: https://drive.google.com/file/d/1xZnts_QRAN5Av3NbBzLzt0FybVafV7JC/view?usp=sharing
+6. Run2_T3: https://drive.google.com/file/d/1vy3Bry1RmAdXqMNXhwXFWZOzF6bCa7hM/view?usp=sharing
+7. Run2_T4: https://drive.google.com/file/d/1CeI_nxhU5_rrT2e78Jsy025t5lOmaQAd/view?usp=sharing
 
 ## Data Compression
 We utilize the lossy compressors SZ to evaluate how much AMRDPC can improve the compression ratio. In particular, we use SZ with the default mode and absolute error bound. SZ can be downloaded from the following address:
