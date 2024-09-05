@@ -31,7 +31,7 @@ We utilize the lossy compressors SZ to evaluate how much AMRDPC can improve the 
 ## Testing Examples
 Examples can be found in the AMRDPC/example.
 
-You can use the executable 'sh test.sh' command to do the compression. Please see the README in AMRDPC/example for details.
+You can use the executable 'sh test.sh' command to do the compression.
 
 
 ## Overall Results
