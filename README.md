@@ -1,7 +1,7 @@
 # AMRDPC: An Efficient Lossy Compression Framework for Density Partitioning in AMR Applications.
 
 ## Overview
-The main idea of AMRDPC is to preprocess AMR data based on density partitioning before compression, and further improve AMR applications' storage efficiency.
+The main idea of ​​AMRDPC is to pre-process AMR data according to density partitions before compression, which can further improve the compression quality and I/O performance.
 
 ## Instruction for AMRDPC
 1. Get the AMR applications and lossy compressor SZ;
