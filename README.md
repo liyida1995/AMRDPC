@@ -4,8 +4,9 @@
 The main idea of AMRDPC is to preprocess AMR data based on density partitioning before compression, and further improve AMR applications' storage efficiency.
 
 ## Instruction for AMRDPC
-1. Get the AMR applications and lossy compressor SZ.
-2.
+1. Get the AMR applications and lossy compressor SZ;
+2. Configure the SZ environment and ensure that it can be run;
+3. Build AMRDPC and baseline, and test.
 
 ## Evaluation Platform
 We conduct our experiments on a Linux server with OS kernel of Linux 5.15, CPU of 12th Gen Intel(R) Core(TM) i9-12900K, main memory of 32 GB DDR5 RAM, and storage device of 1TB M.2 Gen4 NVMe SSD.
